@@ -1,0 +1,16 @@
+{
+    "name": "brazilcode/mvc",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [{
+        "name": "Raimundo Oliveira",
+        "email": "rbrasildev@gmail.com"
+    }],
+    "require": {},
+    "files": [
+        "app/functions/functions.php"
+    ]
+}
