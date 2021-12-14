@@ -9,8 +9,5 @@
         "name": "Raimundo Oliveira",
         "email": "rbrasildev@gmail.com"
     }],
-    "require": {},
-    "files": [
-        "app/functions/functions.php"
-    ]
+    "require": {}
 }

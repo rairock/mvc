@@ -1,10 +1,10 @@
 <?php
 
-function dd($params = [], $die = true)
+function dd($params = [])
 {
     echo '<pre>';
     print_r($params);
     echo '</pre>';
+    die;
 }
 
-if ($die) die();
